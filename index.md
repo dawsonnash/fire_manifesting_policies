@@ -14,3 +14,5 @@ All data is handled securely and is used solely for the purpose of making the ap
 By continuing, you confirm that you have read and agree to this privacy policy and consent to the app's data collection practices.
 
 For questions regarding the privacy policy or data collection, please contact [dev@firemanifesting.com](mailto:dev@firemanifesting.com).
+
+To request deletion of any personally identifying information you have entered into the app, please fill out the following form: [Request Data Deletion](https://docs.google.com/forms/d/e/1FAIpQLSdBh3ioo3JMQieDCIibBWqN052LBbS27QPTVBwBiYKEISlQ9g/viewform?pli=1)
