@@ -2,7 +2,6 @@
 title: Terms and Conditions
 layout: default
 ---
-
 # Terms and Conditions  
 *Last updated: April 18, 2025*
 
