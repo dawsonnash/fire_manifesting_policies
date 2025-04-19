@@ -4,7 +4,7 @@ layout: default
 ---
 
 <p align="left" style="display: flex; align-items: center;">
-  <img src="logo.png" alt="Fire Manifesting Logo" width="40" style="margin-right: 10px; vertical-align: middle;" />
+  <img src="logo1.png" alt="Fire Manifesting Logo" width="40" style="margin-right: 10px; vertical-align: middle;" />
   <span style="font-size: 28px; font-weight: bold;">Privacy Policy</span>
 </p>
 *Last updated: April 18, 2025*
