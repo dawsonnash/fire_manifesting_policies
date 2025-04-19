@@ -3,10 +3,7 @@ title: Privacy Policy
 layout: default
 ---
 
-<p align="left" style="display: flex; align-items: center;">
-  <img src="logo1.png" alt="Fire Manifesting Logo" width="40" style="margin-right: 10px; vertical-align: middle;" />
-  <span style="font-size: 28px; font-weight: bold;">Privacy Policy</span>
-</p>
+# Privacy Policy
 *Last updated: April 18, 2025*
 
 The Fire Manifesting App collects and uses certain types of data to improve user experience, performance, and reliability. This includes information such as app preferences, crash reports, and general usage analytics (e.g., screen views, button taps, and feature interactions). These analytics help to understand which features of the app are being used so improvements can be made and bugs fixed more efficiently.
