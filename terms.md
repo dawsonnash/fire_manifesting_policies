@@ -2,8 +2,8 @@
 title: Terms and Conditions
 layout: default
 ---
-# Terms and Conditions
-*Last updated: April 18, 2025*
+# Terms and Conditions  
+*Last updated: April 18, 2025*<br>
 *Version 1.1.0*
 
 This application is designed to assist wildland fire personnel in creating detailed manifests for internal and external aviation operations.  
