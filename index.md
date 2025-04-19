@@ -2,8 +2,6 @@
 title: Privacy Policy
 layout: default
 ---
-
-# Privacy Policy
 *Last updated: April 18, 2025*
 
 The Fire Manifesting App collects and uses certain types of data to improve user experience, performance, and reliability. This includes information such as app preferences, crash reports, and general usage analytics (e.g., screen views, button taps, and feature interactions). These analytics help to understand which features of the app are being used so improvements can be made and bugs fixed more efficiently.
